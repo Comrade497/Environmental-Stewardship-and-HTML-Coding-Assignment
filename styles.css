@@ -1,12 +1,11 @@
-body p {
+body {
   background-color:#82c8e5
   
   }
 table {
-  border: 4px solid white;
-  border-collapse: collapse;
+  border: 4px black;
 }
-th, td {
+td {
   background-color: #e4f5ff;
 .btn {
   background-color: #e4f5ff;
