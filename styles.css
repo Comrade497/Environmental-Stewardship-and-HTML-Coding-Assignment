@@ -7,7 +7,10 @@ table {
 }
 td {
   background-color: #e4f5ff;
-  text-align: center;
+}
+.a{
+    text-align: center;
+}
 .btn {
   background-color: #e4f5ff;
   border: none;
